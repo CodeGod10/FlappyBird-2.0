@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+input{
+    background-color: lime;
+    padding:10px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+button {
+    background-color: pink;
+    color:white;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 10px;
+    padding:10px;
+}
+
+h2{
+    color:aqua;
+}
